@@ -1,0 +1,15 @@
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\bin\Debug\net6.0\FileExtensionIdentifier.exe
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\bin\Debug\net6.0\FileExtensionIdentifier.deps.json
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\bin\Debug\net6.0\FileExtensionIdentifier.runtimeconfig.json
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\bin\Debug\net6.0\FileExtensionIdentifier.dll
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\bin\Debug\net6.0\FileExtensionIdentifier.pdb
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\obj\Debug\net6.0\FileExtensionIdentifier.csproj.AssemblyReference.cache
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\obj\Debug\net6.0\FileExtensionIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\obj\Debug\net6.0\FileExtensionIdentifier.AssemblyInfoInputs.cache
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\obj\Debug\net6.0\FileExtensionIdentifier.AssemblyInfo.cs
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\obj\Debug\net6.0\FileExtensionIdentifier.csproj.CoreCompileInputs.cache
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\obj\Debug\net6.0\FileExtensionIdentifier.dll
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\obj\Debug\net6.0\refint\FileExtensionIdentifier.dll
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\obj\Debug\net6.0\FileExtensionIdentifier.pdb
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\obj\Debug\net6.0\FileExtensionIdentifier.genruntimeconfig.cache
+D:\Misc\Documents\Projects\code\Practice\FileExtensionIdentifier\FileExtensionIdentifier\obj\Debug\net6.0\ref\FileExtensionIdentifier.dll
